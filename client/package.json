@@ -30,6 +30,11 @@
     "vite": "^6.0.1",
     "jest-styled-components": "^7.2.0",
     "jsdom": "^24.0.0",    
-    "vitest": "^1.2.2"
+    "vitest": "^1.2.2",
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "@mui/icons-material": "^6.1.9",
+    "@mui/material": "^6.1.9",
+    "axios": "^1.7.8"
   }
 }
